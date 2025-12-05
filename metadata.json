@@ -1,0 +1,5 @@
+{
+  "name": "Drone Defense AI",
+  "description": "A physics-based drone interception simulator powered by Gemini AI for mission generation, debriefing, and tactical text-to-speech.",
+  "requestFramePermissions": []
+}
